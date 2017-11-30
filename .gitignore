@@ -56,3 +56,11 @@ fabric.properties
 /*/db
 /*/node_modules
 /*/vendor
+/*/mysql
+/*/php
+/*/HeidiSQL_9.4_Portable
+/*/Blog/.idea
+/*/Blog/vendor
+/*/Blog/var
+/*/mysql_start.bat
+/*/mysql_stop.bat
