@@ -75,3 +75,6 @@ fonts
 obj
 .idea
 target
+*.suo
+*.lock
+*.ide
