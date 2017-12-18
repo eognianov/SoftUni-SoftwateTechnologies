@@ -69,3 +69,9 @@ fabric.properties
 *.docx
 *.sln
 packages
+App_Data
+bin
+fonts
+obj
+.idea
+target
