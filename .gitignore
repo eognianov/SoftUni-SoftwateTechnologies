@@ -78,3 +78,4 @@ target
 *.suo
 *.lock
 *.ide
+*.docx#
