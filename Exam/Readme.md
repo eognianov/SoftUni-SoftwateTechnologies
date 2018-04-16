@@ -118,4 +118,8 @@ The C# project will automatically resolve its **NuGet dependencies** (described 
 
 ### Java and Spring MVC
 
+<<<<<<< HEAD
 The Java project will automatically resolve its **Maven dependencies** (described in **pom.xml** ) when the project is built.
+=======
+The Java project will automatically resolve its **Maven dependencies** (described in **pom.xml** ) when the project is built.
+>>>>>>> 5f3fb55621c75218ed2c4971435af9661d58362f
