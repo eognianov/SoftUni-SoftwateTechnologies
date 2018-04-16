@@ -69,7 +69,7 @@ namespace SoftUniBlog.Controllers
                     database.SaveChanges();
                 }    
             }
-            return View(article);
+            return RedirectToAction("Index");
         }
 
         //GET: Article/Delete
