@@ -80,3 +80,5 @@ target
 *.lock
 *.ide
 *.docx#
+package-lock.json
+package.json
